@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\WindowsFormsApp_1\WindowsFormsApp_1\bin\Debug\WindowsFormsApp_1.exe.config
+C:\Users\lenovo\source\repos\WindowsFormsApp_1\WindowsFormsApp_1\bin\Debug\WindowsFormsApp_1.exe
+C:\Users\lenovo\source\repos\WindowsFormsApp_1\WindowsFormsApp_1\bin\Debug\WindowsFormsApp_1.pdb
+C:\Users\lenovo\source\repos\WindowsFormsApp_1\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\WindowsFormsApp_1\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.Properties.Resources.resources
+C:\Users\lenovo\source\repos\WindowsFormsApp_1\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\WindowsFormsApp_1\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WindowsFormsApp_1\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.exe
+C:\Users\lenovo\source\repos\WindowsFormsApp_1\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.pdb
+C:\Users\lenovo\source\repos\WindowsFormsApp_1\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.Form1.resources
